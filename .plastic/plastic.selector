@@ -1,0 +1,4 @@
+repository "Cloud Repositories/Cradle of Nightmares@10171094928522@cloud"
+  path "/"
+    br "/main"
+    co "/main"

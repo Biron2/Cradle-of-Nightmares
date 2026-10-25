@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: 0263eb5fb7504b9409ee51a57b48b945
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Chapter1/Preview1.unity
+    guid: 0715d3cc4fd3b9643be3b8bb5bd0a44e
+  - enabled: 1
+    path: Assets/Scenes/Chapter1/Chapter1.unity
+    guid: f0b2ebb32b32ecd469f29fb2023083a8
+  - enabled: 1
+    path: Assets/Scenes/Chapter1/Chapter1End.unity
+    guid: 4c56dbdb365e4e54c946589f487f064c
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/Preview2.unity
+    guid: cd02dcbd6c43b774fae691c11a1720ba
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/Chapter2.unity
+    guid: 22384464006c8034a8bd77e0da880c1a
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/Chapter2Court.unity
+    guid: b4bd896bc3619244f912ab4aac622d67
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/Chapter2FaustRoom.unity
+    guid: 1d007ee2a71a3a4499495a8b4a8b3249
+  - enabled: 1
+    path: Assets/Scenes/Chapter2/Chapter2Clock.unity
+    guid: f5f8302cefb1f7d42911459a4b054d7a
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 19691fd366f89cf4b9049db2f7905350, type: 2}
+  m_UseUCBPForAssetBundles: 0
