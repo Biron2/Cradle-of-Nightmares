@@ -2,6 +2,7 @@
 
 <img width="920" height="430" alt="Library Header Capsule 920x430" src="https://github.com/user-attachments/assets/5ebf912c-8cce-424d-ab4e-c28c4f262737" />
 
+
 **A first-person horror adventure game developed with Unity.**
 
 Cradle of Nightmares is a single-player horror adventure set in an alternative version of Russia in the 2000s. Players take on the role of Faust, an agent of a secret organization capable of traveling through time to investigate and confront notorious criminals from history.
