@@ -1,7 +1,7 @@
 # Cradle of Nightmares
 
 <img width="920" height="430" alt="Library Header Capsule 920x430" src="https://github.com/user-attachments/assets/5ebf912c-8cce-424d-ab4e-c28c4f262737" />
-
+<img width="600" height="900" alt="Library Capsule 600x900" src="https://github.com/user-attachments/assets/61d4a259-f073-45f9-8feb-10c3f96f8567" />
 
 **A first-person horror adventure game developed with Unity.**
 
